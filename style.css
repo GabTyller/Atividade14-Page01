@@ -1,0 +1,19 @@
+body{
+    background-color: #052582;
+}
+h1{
+    color:aliceblue;
+}
+h3{
+    color:aliceblue;
+}
+li{
+    color:rgb(139, 193, 240);
+}
+h2{
+    background-color:aliceblue;
+    border: 2px solid;
+}
+#astronomy-class{
+    color: whitesmoke;
+}
